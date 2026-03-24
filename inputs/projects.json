@@ -1,0 +1,72 @@
+{
+    "projects_2025": [
+        {
+            "name": "Mobile App Revamp",
+            "status": "In Progress",
+            "progress": 50,
+            "start_date": "2025-01-10",
+            "end_date": "2025-08-30",
+            "budget": 1200000,
+            "actual_cost": 1150000,
+            "alignment": [
+                "Mobile-first",
+                "Customer Experience"
+            ],
+            "impact": "Increased mobile adoption by 25% , and App Rating from 3.2 to 4.2"
+        },
+        {
+            "name": "ATM Cheques Deposit",
+            "status": "Completed",
+            "progress": 100,
+            "start_date": "2025-01-10",
+            "end_date": "2025-08-30",
+            "budget": 1200000,
+            "actual_cost": 1150000,
+            "alignment": [
+                "Operational Efficiency, process automation"
+            ],
+            "impact": "Reduced cheque processing time by 15% , and 20% reduction in branch visits"
+        },
+        {
+            "name": "SIB Trading",
+            "status": "Completed",
+            "progress": 100,
+             "start_date": "2025-01-10",
+      "end_date": "2025-08-30",
+      "budget": 1200000,
+      "actual_cost": 1150000,   
+            "alignment": [
+                "Mobile-first",
+                "CX"
+            ],
+            "impact": "Increased mobile trading volume by 25% , and App Rating from 3.2 to 4.2"
+        }
+    ],
+    "roadmap_2026": [
+        {
+            "name": "Digital Channel Orchestration (e-Letter of Guarantee) , Fx Order",
+            "priority": "High",
+            "start_date": "2025-01-10",
+            "end_date": "2025-08-30",
+            "budget": 1200000,
+            "actual_cost": 1150000,   
+            "alignment": [
+                "Mobile-first",
+                "Automation"
+            ],
+            "expected_impact": "Shift 30% of branch transactions to digital"
+        },
+        {
+            "name": "AI Customer Insights Platform",
+            "priority": "Medium",
+            "start_date": "2025-01-10",
+            "end_date": "2025-08-30",
+            "budget": 1200000,
+            "actual_cost": 1150000,   
+            "alignment": [
+                "Data-driven CX"
+            ],
+            "expected_impact": "Improve personalization and retention"
+        }
+    ]
+}

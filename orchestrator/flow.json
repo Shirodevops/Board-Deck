@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "strategy_agent",
+        "data_agent",
+        "analysis_agent",
+        "content_agent",
+        "visualization_agent",
+        "qa_agent"
+    ]
+}

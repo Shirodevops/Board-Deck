@@ -1,0 +1,131 @@
+{
+  "strategy": {
+    "name": "Digital Channels Optimization",
+    "goals": [
+      "Mobile-first adoption",
+      "Branch efficiency",
+      "Customer experience"
+    ],
+    "status": "On track"
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "name": "ATM Upgrade",
+        "status": "On track",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "cost": 50000,
+        "budget": 55000
+      },
+      {
+        "name": "Mobile App Revamp",
+        "status": "Delayed",
+        "start": "2025-02-15",
+        "end": "2025-08-30",
+        "cost": 120000,
+        "budget": 100000
+      },
+      {
+        "name": "Kiosk Expansion",
+        "status": "On track",
+        "start": "2025-03-01",
+        "end": "2025-09-15",
+        "cost": 30000,
+        "budget": 30000
+      }
+    ]
+  },
+  "slides": [
+    {
+      "slide": "Strategy Overview",
+      "content": [
+        "ATM usage at 75% with uptime 99.2%",
+        "Kiosk usage at 45% with uptime 98%",
+        "Branch usage at 60% with uptime 97.5%",
+        "Mobile App usage at 85% with uptime 99.8%"
+      ]
+    },
+    {
+      "slide": "Portfolio Summary",
+      "content": [
+        {
+          "name": "ATM Upgrade",
+          "status": "On track",
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "cost": 50000,
+          "budget": 55000
+        },
+        {
+          "name": "Mobile App Revamp",
+          "status": "Delayed",
+          "start": "2025-02-15",
+          "end": "2025-08-30",
+          "cost": 120000,
+          "budget": 100000
+        },
+        {
+          "name": "Kiosk Expansion",
+          "status": "On track",
+          "start": "2025-03-01",
+          "end": "2025-09-15",
+          "cost": 30000,
+          "budget": 30000
+        }
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "slide": "Strategy Overview",
+      "content": [
+        "ATM usage at 75% with uptime 99.2%",
+        "Kiosk usage at 45% with uptime 98%",
+        "Branch usage at 60% with uptime 97.5%",
+        "Mobile App usage at 85% with uptime 99.8%"
+      ],
+      "visual": "Chart for Strategy Overview"
+    },
+    {
+      "slide": "Portfolio Summary",
+      "content": [
+        {
+          "name": "ATM Upgrade",
+          "status": "On track",
+          "start": "2025-01-01",
+          "end": "2025-06-30",
+          "cost": 50000,
+          "budget": 55000
+        },
+        {
+          "name": "Mobile App Revamp",
+          "status": "Delayed",
+          "start": "2025-02-15",
+          "end": "2025-08-30",
+          "cost": 120000,
+          "budget": 100000
+        },
+        {
+          "name": "Kiosk Expansion",
+          "status": "On track",
+          "start": "2025-03-01",
+          "end": "2025-09-15",
+          "cost": 30000,
+          "budget": 30000
+        }
+      ],
+      "visual": "Chart for Portfolio Summary"
+    }
+  ],
+  "review": [
+    {
+      "slide": "Strategy Overview",
+      "review": "QA passed"
+    },
+    {
+      "slide": "Portfolio Summary",
+      "review": "QA passed"
+    }
+  ]
+}
